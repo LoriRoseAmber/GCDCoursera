@@ -7,7 +7,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Instructions:
 
 * download and extract all files from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-* run the run_analysis.R script
+* run the run_analysis.R script (requires "plyr" package)
 
 The run_analysis.R script assumes that all the files are in the current working directory and performs the following tasks:
 
