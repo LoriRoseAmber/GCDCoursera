@@ -1,5 +1,3 @@
-GCDCoursera
-===========
 ##Getting and Cleaning Data Course Project. ##
 
 This repo contains a run_analysis.R script that creates a tidy data set out of raw smartphone data, along with a codebook explaining the nature of the original and updated data.
