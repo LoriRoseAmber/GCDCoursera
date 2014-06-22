@@ -7,20 +7,20 @@ subjectid: an integer from 1:30 representing the 30 volunteers who took part in 
 
 activity: a factor variable with 6 levels:
 
-1. WALKING
-2. WALKING_UPSTAIRS
-3. WALKING_DOWNSTAIRS
-4. SITTING
-5. STANDING
-6. LAYING
+    1 WALKING
+    2 WALKING_UPSTAIRS
+    3 WALKING_DOWNSTAIRS
+    4 SITTING
+    5 STANDING
+    6 LAYING
 
 The remainder of the variables are features found in the original data that contained a mean or standard deviation measurement. Those that contained a mean frequency or standard deviation frequency in the original data were not included for consistency and for simplicity. This selection criteria resulted 66 numeric variables that were averaged by subjectid and activity.
 
 Examples include:
 
-1. tBodyAccmeanZ
-2. fBodyGyroMagmean
-3. fBodyAccJerksstdZ
+    tBodyAccmeanZ
+    fBodyGyroMagmean
+    fBodyAccJerksstdZ
 
 A full list and detailed descriptions can be found in the original documentation.
 
