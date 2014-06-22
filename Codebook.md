@@ -1,7 +1,10 @@
 Information for the original data is in the README.txt and features_info.txt files contained here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The tidy data set combines two data sets and has 68 variables:
+
 subjectid: an integer from 1:30 representing the 30 volunteers who took part in the study
+
 activity: a factor variable with 6 levels:
+
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
@@ -15,7 +18,7 @@ Examples include:
 
 tBodyAccmeanZ
 fBodyGyroMagmean
-fBodyAccJerkstdZ
+fBodyAccJerksstdZ
 
 A full list and detailed descriptions can be found in the original documentation.
 
